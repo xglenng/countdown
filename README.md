@@ -1,4 +1,4 @@
 countdown
 =========
 
-Countdown exercise
+Countdown exercise in Javascript and PHP

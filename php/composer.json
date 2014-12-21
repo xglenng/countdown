@@ -1,0 +1,15 @@
+{
+    "name": "wsu-cs4350/countdown",
+    "description": "countdown() exercise",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Don Stringham",
+            "email": "donstringham@weber.edu"
+        }
+    ],
+    "minimum-stability": "stable"
+}
