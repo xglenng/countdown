@@ -10,3 +10,5 @@ function countdown($seconds)
 }
 
 countdown(5);
+
+die('0 All done...');
