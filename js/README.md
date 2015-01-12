@@ -3,14 +3,12 @@
 Make a kitchen timer.  Modify the `countdown()` function in [countdown.js](countdown.js) to take a number of seconds, then print each second counting down to zero.
 
 ```javascript
-countdown(10);
+//enter the count down date using the format year/month/day
+countdown(2015, 2, 2);
 
 // should print
 
-// 10...
-// 9...
-// 8...
-// ...
+// Only 35 days, 4 hours, 15 minutes, 20 seconds left until Groundhog Day!
 ```
 
 ## Levels
